@@ -144,7 +144,7 @@
                             <view contentMode="scaleToFill" restorationIdentifier="meat" translatesAutoresizingMaskIntoConstraints="NO" id="uIa-Uw-gIu" userLabel="meat">
                                 <rect key="frame" x="48" y="160" width="279" height="346"/>
                                 <subviews>
-                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="meat" translatesAutoresizingMaskIntoConstraints="NO" id="hkd-bM-ZnR">
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="meat2" translatesAutoresizingMaskIntoConstraints="NO" id="hkd-bM-ZnR">
                                         <rect key="frame" x="0.0" y="0.0" width="279" height="346"/>
                                     </imageView>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="ステーキ" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="uhB-gu-hqx">
@@ -553,7 +553,7 @@
         <image name="bad" width="128" height="128"/>
         <image name="blank" width="1" height="1"/>
         <image name="bread" width="696" height="418"/>
-        <image name="meat" width="180" height="135"/>
+        <image name="meat2" width="320" height="240"/>
         <image name="pasta" width="280" height="373"/>
         <image name="ramen" width="680" height="510"/>
         <image name="sushi2" width="350" height="233"/>
