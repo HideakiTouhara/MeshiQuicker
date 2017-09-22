@@ -2,9 +2,8 @@
 
 メシQuickerはあなたの好みに合わせて今行けるお店をレコメンドするアプリです。
 
-[![https://gyazo.com/37b4af09d13450c5d205b86bfc22357f](https://i.gyazo.com/37b4af09d13450c5d205b86bfc22357f.png)](https://gyazo.com/37b4af09d13450c5d205b86bfc22357f)
 
-![result](https://github.com/HideakiTouhara/MeshiQuicker/blob/media/demo.gif)
+![result](https://github.com/HideakiTouhara/MeshiQuicker/blob/media/demo2.gif)
 
 
 
