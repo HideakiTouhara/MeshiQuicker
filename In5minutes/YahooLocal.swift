@@ -59,7 +59,7 @@ public struct QueryCondition {
         case geo = "geo"
         case match = "match"
     }
-    public var sort: Sort = .match
+    public var sort: Sort = .geo
     // 経度
     public var lat: Double? = nil
     // 緯度
